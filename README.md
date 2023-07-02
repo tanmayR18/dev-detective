@@ -32,4 +32,4 @@ Click on the link given below or follow the instrucations given below to run the
 
 ## Live Link
 
-https://64838583816bf2102edb5463--inspiring-heliotrope-fb2d17.netlify.app/
+https://dev-detective-18.netlify.app
